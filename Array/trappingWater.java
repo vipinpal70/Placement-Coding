@@ -14,8 +14,8 @@ public class trappingWater {
                     totalWater += (tp - arr[i]);
                 }
             }
-        } 
-        
+        }
+
         System.out.println("");
         System.out.println(totalWater);
     }
