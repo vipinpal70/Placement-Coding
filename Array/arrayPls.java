@@ -1,10 +1,16 @@
+
+/*
+ * Top level Array Problem that comes in coding Exams and Interviews.
+ */
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Stack;
 
 public class arrayPls {
 
-    // for MIN And MAx element in array
+    /*
+     * for MIN And MAX element in array
+     */
     public static void minMaxElement(int[] arr) {
         int max = Integer.MIN_VALUE; // ---
         int min = Integer.MAX_VALUE; // ++
@@ -17,7 +23,9 @@ public class arrayPls {
         System.out.println(max + " : " + min);
     }
 
-    // for Reverse Array
+    /*
+     * for Reverse Array
+     */
     public static void reverseArray(int[] arr) {
         int st = 0, last = arr.length - 1;
         while (st < last) {
@@ -32,7 +40,9 @@ public class arrayPls {
         }
     }
 
-    // maximum-sub use Kadane's Algorithm
+    /*
+     * maximum-sub use Kadane's Algorithm
+     */
     public static int maxsumKadane(int[] arr) {
         int cr = 0, tl = 0;
         for (int i = 0; i < arr.length; i++) {
@@ -48,7 +58,9 @@ public class arrayPls {
 
     }
 
-    // checking Duplicate Element
+    /*
+     * checking Duplicate Element
+     */
     public static boolean checkDuplicate(int[] arr) {
         Arrays.sort(arr);
         for (int i = 0; i < arr.length - 1; i++) {
@@ -60,7 +72,9 @@ public class arrayPls {
         return false;
     }
 
-    // for Chocolate Distribution Problem
+    /*
+     * for Chocolate Distribution Problem
+     */
     public static void chocolateDistribution(int[] arr, int st) {
         int sum = Integer.MAX_VALUE;
         Arrays.sort(arr);
@@ -71,8 +85,11 @@ public class arrayPls {
         System.out.println(sum);
     }
 
-    // Search in Rotated Sorted Array leetcode no 33
-    // Best Approach
+    /*
+     * Search in Rotated Sorted Array leetcode no 33
+     * 
+     * Best Approach
+     */
 
     public static int searchInRotatedSorted(int[] arr, int target) {
         int N = arr.length, LOW = 0, HIGH = N - 1;
@@ -99,7 +116,9 @@ public class arrayPls {
         return -1;
     }
 
-    // Simple Binary Search Approach
+    /*
+     * Simple Binary Search Approach
+     */
 
     public static int searchInRotatedSorted2(int[] arr, int target) {
         int N = arr.length, LOW = 0, HIGH = N - 1;
@@ -118,13 +137,15 @@ public class arrayPls {
 
     }
 
-    // Next Permutation leetcode 31
+    /*
+     * Next Permutation leetcode 31
+     */
 
     public static void nextPermutation(int[] arr) {
         int i = arr.length - 2;
         while (i >= 0 && arr[i] >= arr[i + 1]) {
             i--;
-        } 
+        }
         if (i >= 0) {
             int j = arr.length - 1;
             while (j >= 0 && arr[j] <= arr[i]) {
@@ -153,7 +174,9 @@ public class arrayPls {
         }
     }
 
-    // leetcode 121
+    /*
+     * leetcode 121
+     */
     public static void buySell(int[] prices) {
         int n = prices.length;
         int maxProfit = 0;
@@ -197,7 +220,9 @@ public class arrayPls {
         return index;
     }
 
-    // Repeat and Missing Number Array
+    /*
+     * Repeat and Missing Number Array
+     */
     public static void repeatNumber(int[] arr) {
         int reapt = 0, miss = 0;
         Arrays.sort(arr);
@@ -213,14 +238,18 @@ public class arrayPls {
         System.out.println("Missing Num : " + miss);
     }
 
-    // Kth Largest Element in an Array
-    // leetcode 215
+    /*
+     * Kth Largest Element in an Array
+     * leetcode 215
+     */
     public static int kThLargestElement(int[] arr, int k) {
         Arrays.sort(arr);
         return arr[arr.length - k];
     }
 
-    // Trapping Rain Water
+    /*
+     * Trapping Rain Water
+     */
 
     public static void tapWater(int[] arr) {
         int totalWater = 0;
@@ -249,7 +278,9 @@ public class arrayPls {
         return result;
     }
 
-    // Product of Array Except Self 238
+    /*
+     * Product of Array Except Self 238
+     */
     public static int[] productOfArrayExceptSelf(int[] arr) {
         int[] result = new int[arr.length];
         int total = 1;
@@ -262,8 +293,10 @@ public class arrayPls {
         return result;
     }
 
-    // leetcode 152
-    // Maximum Product Subarray
+    /*
+     * leetcode 152
+     * Maximum Product Subarray
+     */
     public static int maximumProductSubarray(int[] arr) {
         int ans = arr[0];
         int max = arr[0];
@@ -280,8 +313,10 @@ public class arrayPls {
         }
         return ans;
     }
-    // leetcode 153
-    // Find Minimum in Rotated Sorted Array
+    /*
+     * leetcode 153
+     * Find Minimum in Rotated Sorted Array
+     */
 
     public static int minInRotatedSortedArray(int[] arr) {
         int N = arr.length;
@@ -309,7 +344,9 @@ public class arrayPls {
         return min;
     }
 
-    // Find if there is a pair with a given sum in the rotated sorted Array
+    /*
+     * Find if there is a pair with a given sum in the rotated sorted Array
+     */
     public static boolean pairSum(int[] arr, int x) {
         Arrays.sort(arr);
         int N = arr.length;
@@ -328,7 +365,9 @@ public class arrayPls {
         return false;
     }
 
-    // leetcode 15 3Sum
+    /*
+     * leetcode 15 3Sum
+     */
     public static boolean threeSum(int[] arr) {
         int[] local = arr;
         Arrays.sort(local);
@@ -350,8 +389,10 @@ public class arrayPls {
         return false;
 
     }
-    // leetcode 11
-    // Container With Most Water
+    /*
+     * leetcode 11
+     * Container With Most Water
+     */
 
     public static int containerWithMostWater(int[] height) {
         int total = 0, start = 0, end = height.length - 1;
@@ -403,6 +444,9 @@ public class arrayPls {
 
         stack.push(point[0]);
     }
+    /*
+     * merge Operations To Make An Array Palindrom
+     */
 
     public static int mergeOperationsToMakeAnArrayPalindrome(int[] arr) {
         int count = 0;
@@ -422,7 +466,9 @@ public class arrayPls {
         }
         return count;
     }
-
+    /*
+     * biggest Number as a string in an array
+     */
     public static void biggestNumber(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             String ij = "";
@@ -441,7 +487,9 @@ public class arrayPls {
             System.out.print(i);
         }
     }
-
+    /*
+     * space Optimasation 
+     */
     public static void spaceOptimasation(int start, int end) {
         int s = Math.abs(end - start) + 1;
         int[] arr = new int[s];
@@ -459,7 +507,9 @@ public class arrayPls {
             }
         }
     }
-
+    /*
+     * longestSubArrayWithDivisibleByK
+     */
     public static int longestSubArrayWithDivisibleByK(int[] arr, int k) {
         int sum = 0;
         int ans = 0;
@@ -488,7 +538,6 @@ public class arrayPls {
         return ans;
     }
 
-    
     public static void main(String[] args) {
         // int[] arr = { 10, 20, 30, 35, 40, 21, 35 };
         // minMaxElement(arr);

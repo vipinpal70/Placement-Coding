@@ -1,3 +1,6 @@
+/*
+ * find the maximum Sub Array 
+ */
 public class maximumSubArr {
 
     static int maxSum(int[] arr) {

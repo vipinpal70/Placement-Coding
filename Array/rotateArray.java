@@ -1,3 +1,6 @@
+/*
+ * Rotate an array horizontally
+ */
 public class rotateArray {
 
     public static void rotate(int[] arr){

@@ -1,4 +1,6 @@
-// Dutch National Flag problem
+/*
+ * Dutch National Flag problem
+ */
 
 public class nationFlag {
 

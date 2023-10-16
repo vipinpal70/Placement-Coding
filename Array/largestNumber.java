@@ -1,3 +1,6 @@
+/*
+ * Find the largest element in the array
+ */
 public class largestNumber {
     public static int largestNum(int[] arr) {
         int result = Integer.MIN_VALUE;

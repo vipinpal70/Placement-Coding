@@ -1,3 +1,6 @@
+/*
+ * Rearrange an array such that arr[i] = i
+ */
 public class array_m1 {
 
     static void rearrangeArr(int[] arr) {

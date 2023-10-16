@@ -1,3 +1,6 @@
+/*
+ * buy and sell stock to get maximum profit
+ */
 public class stockBuySell {
     public static void buySell(int[] prices) {
         int n = prices.length;

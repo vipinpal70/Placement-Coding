@@ -1,3 +1,6 @@
+/*
+ * Rearrange positive and negative numbers in O(n) time and O(1) extra space
+ */
 public class array_m2 {
 
     static void rearrangeArr(int[] arr) {

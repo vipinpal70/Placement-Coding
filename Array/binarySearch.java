@@ -1,4 +1,6 @@
-// for binary search we need a sorted array
+/*
+ * for binary search we need a sorted array
+ */
 
 public class binarySearch {
     public static int binaryS(int[] arr, int key) {

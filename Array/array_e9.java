@@ -1,3 +1,6 @@
+/*
+ * Sort an array in wave form
+ */
 public class array_e9 {
 
     static void waveSort(int[] arr) {

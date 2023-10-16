@@ -1,3 +1,6 @@
+/*
+ * Reversal algorithm for array rotation
+ */
 public class array_e7 {
     static void rotateArray(int[] arr) {
         for (int i = 0; i < arr.length - 1; i++) {

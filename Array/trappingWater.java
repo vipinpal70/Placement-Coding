@@ -1,3 +1,7 @@
+/*
+ * trapping water problem
+ */
+
 public class trappingWater {
     public static void tapWater(int[] arr) {
         int totalWater = 0;

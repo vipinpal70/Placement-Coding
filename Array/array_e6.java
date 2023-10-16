@@ -1,3 +1,7 @@
+/*
+ * Segregate even and odd numbers
+ */
+
 public class array_e6 {
     static void evenInTheBegin(int arr[]) {
         for (int i = 0; i < arr.length; i++) {
