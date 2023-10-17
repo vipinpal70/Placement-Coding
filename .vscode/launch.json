@@ -1,0 +1,651 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArmstsrongNum",
+            "request": "launch",
+            "mainClass": "ArmstsrongNum",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "Codechef",
+            "request": "launch",
+            "mainClass": "Codechef",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "EthCode",
+            "request": "launch",
+            "mainClass": "EthCode",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "Eui",
+            "request": "launch",
+            "mainClass": "Eui",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "JfcLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.JfcLinkedList",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "introLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.introLinkedList",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList1",
+            "request": "launch",
+            "mainClass": "LinkedList1",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "MaxPro",
+            "request": "launch",
+            "mainClass": "MaxPro",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "Normalization",
+            "request": "launch",
+            "mainClass": "Normalization",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "TestStudent1",
+            "request": "launch",
+            "mainClass": "TestStudent1",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArrPls",
+            "request": "launch",
+            "mainClass": "TwoD_Array.TwoDArrPls",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "anagram",
+            "request": "launch",
+            "mainClass": "anagram",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "arrayLeader",
+            "request": "launch",
+            "mainClass": "arrayLeader",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "arrayPls",
+            "request": "launch",
+            "mainClass": "arrayPls",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "array_e1",
+            "request": "launch",
+            "mainClass": "array_e1",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "array_e10",
+            "request": "launch",
+            "mainClass": "array_e10",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "array_e2",
+            "request": "launch",
+            "mainClass": "array_e2",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "array_e3",
+            "request": "launch",
+            "mainClass": "array_e3",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "array_e4",
+            "request": "launch",
+            "mainClass": "array_e4",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "array_e5",
+            "request": "launch",
+            "mainClass": "array_e5",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "array_e6",
+            "request": "launch",
+            "mainClass": "array_e6",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "array_e7",
+            "request": "launch",
+            "mainClass": "array_e7",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "array_e9",
+            "request": "launch",
+            "mainClass": "array_e9",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "array_m1",
+            "request": "launch",
+            "mainClass": "array_m1",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "array_m2",
+            "request": "launch",
+            "mainClass": "array_m2",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "arrayalgo",
+            "request": "launch",
+            "mainClass": "arrayalgo",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "KnightsTourProblem",
+            "request": "launch",
+            "mainClass": "backtracking.KnightsTourProblem",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "backtrak",
+            "request": "launch",
+            "mainClass": "backtracking.backtrak",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "gfgBackProblem",
+            "request": "launch",
+            "mainClass": "backtracking.gfgBackProblem",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "nQueen",
+            "request": "launch",
+            "mainClass": "backtracking.nQueen",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "abc",
+            "request": "launch",
+            "mainClass": "basic.abc",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "butterFly",
+            "request": "launch",
+            "mainClass": "basic.butterFly",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "decimalToBinary",
+            "request": "launch",
+            "mainClass": "basic.decimalToBinary",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "hollowRectanglePattern",
+            "request": "launch",
+            "mainClass": "basic.hollowRectanglePattern",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "startPrint",
+            "request": "launch",
+            "mainClass": "basic.startPrint",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "binarySearch",
+            "request": "launch",
+            "mainClass": "binarySearch",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "bitIntroduction",
+            "request": "launch",
+            "mainClass": "bitmanupulation.bitIntroduction",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ques1",
+            "request": "launch",
+            "mainClass": "bitmanupulation.ques1",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ques2",
+            "request": "launch",
+            "mainClass": "bitmanupulation.ques2",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ques3",
+            "request": "launch",
+            "mainClass": "bitmanupulation.ques3",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ques4",
+            "request": "launch",
+            "mainClass": "bitmanupulation.ques4",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "boxSwap",
+            "request": "launch",
+            "mainClass": "boxSwap",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "cong",
+            "request": "launch",
+            "mainClass": "cong",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "datamining",
+            "request": "launch",
+            "mainClass": "datamining",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "divideCon",
+            "request": "launch",
+            "mainClass": "divideConquer.divideCon",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "doublelinked",
+            "request": "launch",
+            "mainClass": "doublelinked",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "frequency",
+            "request": "launch",
+            "mainClass": "frequency",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "hyphenStringn",
+            "request": "launch",
+            "mainClass": "hyphenStringn",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "karprekar",
+            "request": "launch",
+            "mainClass": "karprekar",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "largestNumber",
+            "request": "launch",
+            "mainClass": "largestNumber",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "link",
+            "request": "launch",
+            "mainClass": "link",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "linkedlistMerge",
+            "request": "launch",
+            "mainClass": "linkedlistMerge",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "linkedlistQues",
+            "request": "launch",
+            "mainClass": "linkedlistQues",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "linkedlistQues2",
+            "request": "launch",
+            "mainClass": "linkedlistQues2",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "longestPalindromString",
+            "request": "launch",
+            "mainClass": "longestPalindromString",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "main1",
+            "request": "launch",
+            "mainClass": "main1",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "maximumSubArr",
+            "request": "launch",
+            "mainClass": "maximumSubArr",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "nationFlag",
+            "request": "launch",
+            "mainClass": "nationFlag",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "question",
+            "request": "launch",
+            "mainClass": "question",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "qestions",
+            "request": "launch",
+            "mainClass": "recursion.qestions",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "removeWhiteSpace",
+            "request": "launch",
+            "mainClass": "removeWhiteSpace",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "reverseArray",
+            "request": "launch",
+            "mainClass": "reverseArray",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "rotateArray",
+            "request": "launch",
+            "mainClass": "rotateArray",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "singleLinkage",
+            "request": "launch",
+            "mainClass": "singleLinkage",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "sorting.bubbleSort",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "countSort",
+            "request": "launch",
+            "mainClass": "sorting.countSort",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "insertionSort",
+            "request": "launch",
+            "mainClass": "sorting.insertionSort",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "radixSort",
+            "request": "launch",
+            "mainClass": "sorting.radixSort",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "searchPls",
+            "request": "launch",
+            "mainClass": "sorting.searchPls",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "sorting.selectionSort",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "staircaseSearch",
+            "request": "launch",
+            "mainClass": "sorting.staircaseSearch",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "stockBuySell",
+            "request": "launch",
+            "mainClass": "stockBuySell",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "WordWrap",
+            "request": "launch",
+            "mainClass": "string.WordWrap",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "boyerMoore",
+            "request": "launch",
+            "mainClass": "string.boyerMoore",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "palindrone",
+            "request": "launch",
+            "mainClass": "string.palindrone",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ques2(1)",
+            "request": "launch",
+            "mainClass": "string.ques2",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ques3(1)",
+            "request": "launch",
+            "mainClass": "string.ques3",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ques4(1)",
+            "request": "launch",
+            "mainClass": "string.ques4",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ques5",
+            "request": "launch",
+            "mainClass": "string.ques5",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "stackExample",
+            "request": "launch",
+            "mainClass": "string.stackExample",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "strIndroduction",
+            "request": "launch",
+            "mainClass": "string.strIndroduction",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "strPls",
+            "request": "launch",
+            "mainClass": "string.strPls",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "subArray",
+            "request": "launch",
+            "mainClass": "subArray",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "timezone",
+            "request": "launch",
+            "mainClass": "timezone",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "trappingWater",
+            "request": "launch",
+            "mainClass": "trappingWater",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "user",
+            "request": "launch",
+            "mainClass": "user",
+            "projectName": "Placement Coding_7272b7d2"
+        }
+    ]
+}

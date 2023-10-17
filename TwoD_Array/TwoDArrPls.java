@@ -10,7 +10,9 @@ import java.util.Map;
 
 public class TwoDArrPls {
 
-    // Zigzag (or diagonal) traversal of Matrix
+    /*
+     * Zigzag (or diagonal) traversal of Matrix
+     */
     public static void Zigzag(int[][] matrix) {
         int row = matrix.length;
         int col = matrix[0].length - 1;
@@ -39,7 +41,9 @@ public class TwoDArrPls {
 
     }
 
-    // 73. Set Matrix Zeroes
+    /*
+     * 73. Set Matrix Zeroes
+     */
     public static void setZeroes(int[][] matrix) {
         boolean fr = false, fc = false;
         for (int i = 0; i < matrix.length; i++) {
@@ -75,7 +79,9 @@ public class TwoDArrPls {
         }
     }
 
-    // 54. Spiral Matrix
+    /*
+     * 54. Spiral Matrix
+     */
     public static List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> list = new ArrayList<>();
         int stRow = 0, stCol = 0;
@@ -121,7 +127,9 @@ public class TwoDArrPls {
         return list;
     }
 
-    // 48 Rotate Image
+    /*
+     * 48 Rotate Image
+     */
     public static void rotate(int[][] matrix) {
         int N = matrix.length;
         for (int i = 0; i < N; i++) {
@@ -149,7 +157,9 @@ public class TwoDArrPls {
         }
     }
 
-    // 79 Word search in 2D Array
+    /*
+     * 79 Word search in 2D Array
+     */
     public static boolean exist(char[][] board, String word) {
         for (int i = 0; i < board.length; i++) {
             for (int j = 0; j < board[i].length; j++) {
@@ -201,11 +211,13 @@ public class TwoDArrPls {
         return a || b || c || d;
     }
 
-    // Find a common element in all rows of a given row-wise sorted matrix
+    /*
+     * Find a common element in all rows of a given row-wise sorted matrix
+     */
 
     public static void commonElement(int[][] matrix) {
         int localMax = 0, finalMax = 0, r = matrix.length - 1, c = matrix[0].length - 1;
-        int ans = -1;
+        // int ans = -1;
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < r; i++) {
             if (localMax < matrix[i][0]) {
@@ -237,7 +249,7 @@ public class TwoDArrPls {
                 int value = (mapElement.getKey());
                 if (value == r + 2) { // r+2 === matrix.lenght (total rows)
                     System.out.println(value);
-                    ans = value;
+                    // ans = value;
                     return;
                 }
             }
@@ -246,7 +258,9 @@ public class TwoDArrPls {
         System.out.println("not fount any values");
     }
 
-    // Create a matrix with alternating rectangles of O and X
+    /*
+     * Create a matrix with alternating rectangles of O and X
+     */
     public static void alternateRectangle(char[][] martix) {
         int M = martix.length;
         int N = martix[0].length;
