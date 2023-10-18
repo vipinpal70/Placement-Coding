@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "CombinationalSum",
+            "request": "launch",
+            "mainClass": "backtracking.CombinationalSum",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "RatInMaze",
+            "request": "launch",
+            "mainClass": "backtracking.RatInMaze",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
