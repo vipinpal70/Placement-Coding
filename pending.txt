@@ -1,0 +1,14 @@
+
+Searching & Sorting 
+
+------>  Minimum number of swaps required to sort an array
+
+
+Backtracking and DP
+
+------> Partition Equal Subset Sum
+------> M-Coloring Problem
+------> Print all Palindromic Partitions of a String using Bit Manipulation
+
+
+

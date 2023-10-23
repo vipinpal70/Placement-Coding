@@ -27,6 +27,8 @@ public class RatInMaze {
             sol[sr][sc] = 1;
             solveMaze(maze, sr, sc + 1, sol);
             solveMaze(maze, sr + 1, sc, sol);
+            solveMaze(maze, sr, sc - 1, sol);
+            solveMaze(maze, sr - 1, sc, sol);
             maze[sr][sc] = 2;
         } else {
 
@@ -57,6 +59,9 @@ public class RatInMaze {
                 { 1, 1, 1, 1 } };
         int[][] sol = new int[n][n];
         solveMaze(maze, 0, 0, sol);
+        System.out.println();
+        System.out.println();
+        // printmaze(maze);
         System.out.println();
         System.out.println();
     }

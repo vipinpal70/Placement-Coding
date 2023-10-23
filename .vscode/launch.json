@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "shortestSafePath",
+            "request": "launch",
+            "mainClass": "backtracking.shortestSafePath",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "wordBreakProblem",
+            "request": "launch",
+            "mainClass": "backtracking.wordBreakProblem",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "RemoveInvalidParentheses",
+            "request": "launch",
+            "mainClass": "backtracking.RemoveInvalidParentheses",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "countInversion",
+            "request": "launch",
+            "mainClass": "backtracking.countInversion",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "kthPermutationSequence",
+            "request": "launch",
+            "mainClass": "backtracking.kthPermutationSequence",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "palindromePartition",
+            "request": "launch",
+            "mainClass": "backtracking.palindromePartition",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "PartitionEqualSubsetSum",
+            "request": "launch",
+            "mainClass": "backtracking.PartitionEqualSubsetSum",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "sudoku",
+            "request": "launch",
+            "mainClass": "backtracking.sudoku",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "nQeenProblem",
+            "request": "launch",
+            "mainClass": "backtracking.nQeenProblem",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "LongestPossibleRoute2",
+            "request": "launch",
+            "mainClass": "backtracking.LongestPossibleRoute2",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "LongestPossibleRoute",
+            "request": "launch",
+            "mainClass": "backtracking.LongestPossibleRoute",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "crossWordPuzzle",
+            "request": "launch",
+            "mainClass": "backtracking.crossWordPuzzle",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
             "name": "demo",
             "request": "launch",
             "mainClass": "demo",
