@@ -9,6 +9,8 @@ Backtracking and DP
 ------> Partition Equal Subset Sum
 ------> M-Coloring Problem
 ------> Print all Palindromic Partitions of a String using Bit Manipulation
+------> Partition of a set into K subsets with equal sum
+------> Hamiltonian Cycle
 
 
 

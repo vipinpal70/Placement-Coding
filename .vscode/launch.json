@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "circulerLL",
+            "request": "launch",
+            "mainClass": "LinkedList.circulerLL",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "DoubleLL",
+            "request": "launch",
+            "mainClass": "LinkedList.DoubleLL",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "sortALinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.sortALinkedList",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "LinkedList.RemoveDuplicates",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ReverseLL",
+            "request": "launch",
+            "mainClass": "LinkedList.ReverseLL",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticExpressions",
+            "request": "launch",
+            "mainClass": "backtracking.ArithmeticExpressions",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "middlecellInMaze",
+            "request": "launch",
+            "mainClass": "backtracking.middlecellInMaze",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "CryptarithmeticPuzzles",
+            "request": "launch",
+            "mainClass": "backtracking.CryptarithmeticPuzzles",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
             "name": "shortestSafePath",
             "request": "launch",
             "mainClass": "backtracking.shortestSafePath",
