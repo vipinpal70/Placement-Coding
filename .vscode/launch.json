@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FlatteringLL",
+            "request": "launch",
+            "mainClass": "LinkedList.FlatteringLL",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoLL",
+            "request": "launch",
+            "mainClass": "LinkedList.AddTwoLL",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "QuickSortLL",
+            "request": "launch",
+            "mainClass": "LinkedList.QuickSortLL",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
             "name": "circulerLL",
             "request": "launch",
             "mainClass": "LinkedList.circulerLL",
