@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TOH",
+            "request": "launch",
+            "mainClass": "StacksQueue.TOH",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "towerOfHanoi",
+            "request": "launch",
+            "mainClass": "recursion.towerOfHanoi",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "MinDistHav1",
+            "request": "launch",
+            "mainClass": "StacksQueue.MinDistHav1",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "SortAStackUsiRecur",
+            "request": "launch",
+            "mainClass": "StacksQueue.SortAStackUsiRecur",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "AllPermGreatThanNum",
+            "request": "launch",
+            "mainClass": "StacksQueue.AllPermGreatThanNum",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "StackPermutation",
+            "request": "launch",
+            "mainClass": "StacksQueue.StackPermutation",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ReverseFiKthEle",
+            "request": "launch",
+            "mainClass": "StacksQueue.ReverseFiKthEle",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ImpStandQusingDeq",
+            "request": "launch",
+            "mainClass": "StacksQueue.ImpStandQusingDeq",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "QueueReversal",
+            "request": "launch",
+            "mainClass": "StacksQueue.QueueReversal",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ImpStackUsingQueue",
+            "request": "launch",
+            "mainClass": "StacksQueue.ImpStackUsingQueue",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ImpTwoStack",
+            "request": "launch",
+            "mainClass": "StacksQueue.ImpTwoStack",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
             "name": "cloneLL",
             "request": "launch",
             "mainClass": "LinkedList.cloneLL",
