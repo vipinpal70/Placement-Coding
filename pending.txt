@@ -49,3 +49,212 @@ Backtracking and DP
     	}
     	return ans;
     }
+
+
+
+
+===============================================================>
+
+
+
+Greedy Find minimum time to finish all jobs with given constraints
+Greedy Minimum edges to reverse to make path from a source to a destination
+Greedy Minimize Cash Flow among a given set of friends who have borrowed money from each other
+
+Binary Trees Create a mirror tree from the given binary tree Accolite Adobe Amazon Belzabar EBay Goldman Sachs Microsoft Morgan Stanley Myntra Ola Cabs Paytm
+Binary Trees Leaf at same level Amazon
+Binary Trees Check for Balanced Tree Amazon Walmart Microsoft
+Binary Trees Transform to Sum Tree Amazon FactSet Microsoft Samsung Walmart
+Binary Trees Check if Tree is Isomorphic Amazon Microsoft
+Binary Trees Same Tree Amazon Microsoft Flipkart
+Binary Trees Construct Binary Tree from Preorder and Inorder Traversal Accolite Amazon Microsoft
+Binary Trees Height of Binary Tree Amazon Cadence India CouponDunia D-E-Shaw FactSet FreeCharge MakeMyTrip
+Binary Trees Diameter of a Binary Tree Amazon Microsoft OYO Rooms
+Binary Trees Top View of Binary Tree Microsoft + Adobe + Expedia Group
+Binary Trees Bottom View of Binary Tree DE Shaw India
+Binary Trees Diagonal Traversal of Binary Tree Amazon Microsoft
+Binary Trees Boundary Traversal of binary tree Accolite Amazon FactSet Hike Kritikal Solutions
+Binary Trees Construct Binary Tree from String with Brackets Microsoft Morgan Stanley OYO Rooms Payu Samsung Snapdeal Flipkart
+Binary Trees Minimum swap required to convert binary tree to binary search tree Adobe Amazon
+Binary Trees Duplicate subtree in Binary Tree Google
+Binary Trees Check if a given graph is tree or not Microsoft Amazon
+Binary Trees Lowest Common Ancestor in a Binary Tree Accolite Amazon American Express Cisco Expedia Flipkart MakeMyTrip Microsoft OYO Room
+Binary Trees Min distance between two given nodes of a Binary Tree Amazon Linkedin MakeMyTrip Ola Cabs Qualcomm Samsung
+Binary Trees Duplicate Subtrees Ola
+Binary Trees Kth ancestor of a node in binary tree Josh Technology Group
+Binary Trees Binary Tree Maximum Path Sum Samsung + Facebook
+Binary Trees Serialize and Deserialize Binary Tree Flipkart InMobi Linkedin MAQ Software Microsoft Paytm Quikr Yahoo
+Binary Trees Binary Tree to DLL Accolite Amazon Goldman Sachs Microsoft Morgan Stanley Salesforce Snapdeal
+Binary Trees Print all k-sum paths in a binary tree Accolite Amazon Goldman Sachs 
+
+Binary Search Trees Lowest Common Ancestor of a Binary Search Tree Accolite Amazon Flipkart MAQ Software Microsoft Samsung Synopsys
+Binary Search Trees Binary Search Tree | Set 1 (Search and Insertion) Accolite Amazon Microsoft Paytm Samsung
+Binary Search Trees Minimum element in BST Microsoft
+Binary Search Trees Predecessor and Successor Google + Adobe + Goladman Sachs + Direct
+Binary Search Trees Check whether BST contains Dead End Walmart
+Binary Search Trees Binary Tree to BST HSBC
+Binary Search Trees Kth largest element in BST Accolite Amazon Samsung SAP Labs Microsoft
+Binary Search Trees Validate Binary Search Tree OYO Rooms Qualcomm Samsung Snapdeal VMWare Walmart Wooker Amazon Facebook
+Binary Search Trees Kth Smallest Element in a BST Accolite Amazon Google
+Binary Search Trees Delete Node in a BST Adobe Barclays
+Binary Search Trees Flatten BST to sorted list Microsoft
+Binary Search Trees Preorder to Postorder Amazon Linkedin Flipkart
+Binary Search Trees Count BST nodes that lie in a given range D-E-Shaw Google
+Binary Search Trees Populate Inorder Successor for all Nodes Sap labs
+Binary Search Trees Convert Normal BST to Balanced BST Paytm
+Binary Search Trees Merge two BSTs DE Shaw India
+Binary Search Trees Given n appointments, find all conflicting appointments Samsung
+Binary Search Trees Replace every element Samsung
+Binary Search Trees Construct BST from given preorder traversal Adobe Morgan Stanley Microsoft
+Binary Search Trees Find median of BST in O(n) time and O(1) space Amazon
+Binary Search Trees Largest BST in a Binary Tree Amazon D-E-Shaw Samsung Microsoft Flipkart Important
+
+Heaps & Hashing Choose k array elements such that difference of maximum and minimum is minimized
+Heaps & Hashing Heap Sort Adobe
+Heaps & Hashing Top K Frequent Elements Amazon Microsoft
+Heaps & Hashing k largest elements in an array Amazon Microsoft Walmart Adobe
+Heaps & Hashing Next Greater Element Amazon + Microsoft + Flipkart + Adobe
+Heaps & Hashing K’th Smallest/Largest Element in Unsorted Array ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe
+Heaps & Hashing Find the maximum repeating number in O(n) time and O(1) extra space Accolite Amazon
+Heaps & Hashing K-th smallest element after removing some integers from natural numbers ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe
+Heaps & Hashing Find k closest elements to a given value Amazon OYO Rooms
+Heaps & Hashing K’th largest element in a stream  Amazon Cisco Hike OYO Rooms Walmart Microsoft Flipkart
+Heaps & Hashing Connect Ropes Amazoon + Oyo + Goldman Sachs
+Heaps & Hashing Cuckoo Hashing Amaxon
+Heaps & Hashing Itinerary from a List of Tickets Microsoft + Ola + eBay
+Heaps & Hashing Largest Subarray with 0 Sum Amazon MakeMyTrip Microsoft
+Heaps & Hashing Count distinct elements in every window of size k Accolite Amazon Microsoft
+Heaps & Hashing Group Shifted Strings Oracle
+Heaps & Hashing Merge K Sorted lists Microsoft + Ola + eBay
+Heaps & Hashing Find Median from Data Stream Adobe Amazon Apple Belzabar D-E-Shaw Facebook Flipkart Google Intuit Microsoft Morgan Stanley Ola Cabs Oracle Samsung SAP Labs Yahoo
+Heaps & Hashing Sliding Window Maximum Amazon Directi Flipkart Microsoft Google
+Heaps & Hashing Find the smallest positive number Accolite Amazon Samsung Snapdeal
+Heaps & Hashing Find Surpasser Count of each element in array Amazon Morgan Stanley Ola Cabs SAP Labs
+Heaps & Hashing Tournament Tree and Binary Heap Amazon Ola Cabs Samsung Synopsys Walmart Microsoft
+Heaps & Hashing Check for palindrome Amazon Cisco D-E-Shaw Facebook FactSet Morgan Stanley Paytm Zoho
+Heaps & Hashing Length of the largest subarray with contiguous elements Amazon Intuit Microsoft
+Heaps & Hashing Palindrome Substring Queries Amazon Morgan Stanley Ola Cabs SAP Labs
+Heaps & Hashing Subarray distinct elements Microsoft + Ola + eBay
+Heaps & Hashing Find the recurring function MAQ Software
+Heaps & Hashing K maximum sum combinations from two arrays Amazon
+
+Graphs BFS Samsung + Delhivery + SAP Labs
+Graphs DFS Samsung + Intuit + Goldman Sachs
+Graphs Flood Fill Algorithm Google + Adobe + Apple
+Graphs Number of Triangles IBM
+Graphs Detect cycle in a graph Lenksart
+Graphs Detect cycle in an undirected graph Samsung
+Graphs Rat in a Maze Problem 
+Graphs Steps by Knight Samsung 
+Graphs Clone graph Google + MAQ Software + Apple + Facebook
+Graphs Number of Operations to Make Network Connected Samsung 
+Graphs Dijkstra’s shortest path algorithm Amazon 
+Graphs Topological Sort Amazon + Google + Flipkart + Oyo + Fipkart + Samsung
+Graphs Oliver and the Game Sharechat + Directi
+Graphs Minimum time taken by each job to be completed given by a Directed Acyclic Graph Amazon
+Graphs Find whether it is possible to finish all tasks or not from given dependencies Directi + Sharechat
+Graphs Find the number of islands Razorpay
+Graphs Prim's Algo Visa
+Graphs Negative Weighted Cycle Amazon
+Graphs Floyd Warshall Google + Uber
+Graphs Graph Coloring Morgan Stanley
+Graphs Snakes and Ladders Goldman Sachs +Makemytrip
+Graphs Kosaraju's Theorem Paytm
+Graphs Journey to moon Lenksart + Payload
+Graphs Vertex Cover Intuit
+Graphs M Coloring Problem Uber
+Graphs Cheapest Flights Within K Stops Uber + Paypal
+Graphs Find if there is a path of more than k length from a source Cisco + Intuit
+Graphs Bellman Ford Sharechat + Directi
+Graphs Bipartitie Graph Microsoft Flipkart
+Graphs Word-Ladder Microsoft
+Graphs Allen Dictionary Samsung
+Graphs Kruskals MST Amazon Cisco Samsung Important
+Graphs Total number spanning trees graph Amazon Cisco Samsung Microsoft Flipkart
+Graphs Travelling Salesman Google + Microsoft + Opera Important
+Graphs Find longest path directed acyclic graph Google
+Graphs Two Clique Problem Microsoft
+Graphs Minimise the cash flow Intuit + Uber
+Graphs Chinese postman Intuit
+Graphs Water Jug Intuit + Uber
+Graphs Water Jug 2 MakeMyTrip MAQ Software
+
+Tries Construct a trie from scratch  Accolite Amazon D-E-Shaw FactSet Microsoft
+Tries Print unique rows in a given boolean matrix Amazon Zoho
+Tries Word Break Problem | (Trie solution) Amazon Google Hike IBM MAQ Software Microsoft Walmart Zoho
+Tries Given a sequence of words, print all anagrams together Amazon D-E-Shaw Goldman Sachs Morgan Stanley Snapdeal Microsoft
+Tries Find shortest unique prefix for every word in a given list Microsoft Google
+Tries Implement a Phone Directory Amazon + Microsoft + Snapdeal
+
+DP Knapsack with Duplicate Items Amazon
+DP BBT counter Microsoft
+DP Reach a given score Samsung
+DP Maximum difference of zeros and ones in binary string Ola
+DP Climbing Stairs Intuit
+DP Permutation Coefficient Amazon
+DP Longest Repeating Subsequence Google + Amazon
+DP Pairs with specific difference Ola
+DP Longest subsequence-1 Amazon
+DP Coin Change Microsoft+ Samsung + Barclays + Apple + Adobe
+DP LIS Amazon + Google + Facebook + Fidelity International
+DP Longest Common Subsequence Siemens + Amazon + Google
+DP Word Break Amazon + Google + Microsoft + Walmart + Apple + IBM
+DP Combination Sum IV Adobe Amazon Microsoft
+DP House Robber Apple + Uber
+DP Houe Robber 2 Arrays Dynamic Programming
+DP Decode Ways Adobe + Uber
+DP Unique Paths Google + Microsoft
+DP Jumps Game Facebook Amazon Microsoft Google
+DP Knapsack Problem Amazon Directi Flipkart GreyOrange Microsoft Mobicip Morgan Stanley Oracle Payu Snapdeal Visa
+DP nCr Google
+DP Catalan Number Amazon + Google
+DP Edit Distance Google + Goldman Sachs + Citrix
+DP Subset Sum Amazon + Google
+DP Gold mine Samsung
+DP Assembly Line Scheduling Goldman Sachs
+DP Maximize The Cut Segments Amazon OYO Rooms Microsoft
+DP Maximum sum increasing subsequence Amazon Morgan Stanley Microsoft
+DP Count all subsequences having product less than K Goldman Sachs
+DP Maximum sum increasing subsequence Amazon Morgan Stanley Microsoft
+DP Egg dropping puzzle Amazon D-E-Shaw Goldman Sachs Google Hike MakeMyTrip MAQ Software Myntra Nearbuy Opera Oracle Philips Samsung Service Now Unisys VMWare Microsoft
+DP Max length chain Amazon Microsoft
+DP Largest Square in Matrix Amazon Samsung
+DP Maximum Path Sum Amazon + Microsoft + Oyo + Directi
+DP Minimum Number of Jumps Adobe Amazon Housing.com Moonfrog Labs Walmart Microsoft Google Flipkart
+DP Minimum removals from array to make max – min <= K Amazon
+DP Longest Common Substring Webarch Club
+DP Partition Equal Subset Sum Amazon + Accolite + Traveloca + Adobe
+DP Longest Palindromic Subsequnce Amazon Google
+DP Count Palindromic Subsequences Myntra 
+DP Longest Palindromic Substring Amazon + Microsoft + Samsung + Visa
+DP Longest Alternating Sequence Ola
+DP Weighted Job Scheduling Intuit
+DP Coin Game Salesforce
+DP Coin Game Winner Ola
+DP Optimal Strategy for a game Google + IBM
+DP Word Wrap Microsoft
+DP Mobile numeric keypad Amazon Microsoft
+DP Maximum Length of Pair Chain Amazon Microsoft
+DP Matrix Chain Multiplication Walmart + Flipkart
+DP Maximum profit by buying and selling a share at most twice Accolite Amazon Microsoft
+DP Optimal BST Google
+DP Largest Submatrix with sum 0 Amazon MakeMyTrip Microsoft
+DP Largest area rectangular sub-matrix with equal number of 1’s and 0’s Amazon Directi Intuit MakeMyTrip Microsoft Samsung Google Flipkart
+
+Bit Manipulation Count set bits in an integer Adobe Apple
+Bit Manipulation Find the two non-repeating elements in an array of repeating elements Accolite Amazon FactSet Google MakeMyTrip Microsoft Qualcomm Samsung
+Bit Manipulation Program to find whether a no is power of two Adobe
+Bit Manipulation Find position of the only set bit Microsoft
+Bit Manipulation Count number of bits to be flipped to convert A to B Maq Software
+Bit Manipulation Count total set bits in all numbers from 1 to n Microsoft
+Bit Manipulation Copy set bits in a range Facebook
+Bit Manipulation Calculate square of a number without using *, / and pow() Amazon
+Bit Manipulation Divide two integers without using multiplication, division and mod operator Microsoft
+Bit Manipulation Power Set Google + Adobe + Paytm
+
+Segment Trees Range Sum Query - Immutable
+Segment Trees Range Minimum Query Google Interview Qs
+Segment Trees Range Sum Query - Mutable Alibaba
+Segment Trees Create Sorted Array through Instructions Samsung + Accolite
+Segment Trees Count of Range Sum Walmart
+Segment Trees Count of Smaller Numbers After Self 

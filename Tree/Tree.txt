@@ -1,0 +1,11 @@
+
+    // Encodes a tree to a single string.
+    public String serialize(TreeNode root) {
+        if(root == null) return "#";
+        StringBuilder str = new StringBuilder("");
+        str.append(root.val+","+serialize(root.left)+","+serialize(root.right));
+        return str.toString();
+    }
+
+
+    

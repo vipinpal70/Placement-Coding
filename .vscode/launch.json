@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MirrorTree",
+            "request": "launch",
+            "mainClass": "Tree.MirrorTree",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "TreeIntro",
+            "request": "launch",
+            "mainClass": "Tree.TreeIntro",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "PaperCut",
+            "request": "launch",
+            "mainClass": "Greedy.PaperCut",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "FractionalKnapsack",
+            "request": "launch",
+            "mainClass": "Greedy.FractionalKnapsack",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "JobSequencingProblem",
+            "request": "launch",
+            "mainClass": "Greedy.JobSequencingProblem",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "HeightOfPyramid",
+            "request": "launch",
+            "mainClass": "Greedy.HeightOfPyramid",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "MinimumNomOfCoin",
+            "request": "launch",
+            "mainClass": "Greedy.MinimumNomOfCoin",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "ActivitySelectionProblem",
+            "request": "launch",
+            "mainClass": "Greedy.ActivitySelectionProblem",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "maxiOfMiniForEveryWindSize",
+            "request": "launch",
+            "mainClass": "StacksQueue.maxiOfMiniForEveryWindSize",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
             "name": "TOH",
             "request": "launch",
             "mainClass": "StacksQueue.TOH",

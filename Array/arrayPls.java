@@ -573,7 +573,6 @@ public class arrayPls {
 
         // // only for Merge Overlapping Intervals Question
         // //
-
         // // arrayPls.Interval arr[] = new arrayPls.Interval[4];
         // // arr[0] = new Interval(6, 8);
         // // arr[1] = new Interval(1, 9);
