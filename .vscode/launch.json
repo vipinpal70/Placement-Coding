@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ImpHeap",
+            "request": "launch",
+            "mainClass": "Heap.ImpHeap",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
+            "name": "intoBST",
+            "request": "launch",
+            "mainClass": "BST.intoBST",
+            "projectName": "Placement Coding_7272b7d2"
+        },
+        {
+            "type": "java",
             "name": "MirrorTree",
             "request": "launch",
             "mainClass": "Tree.MirrorTree",
